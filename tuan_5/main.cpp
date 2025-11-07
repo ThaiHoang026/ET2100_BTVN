@@ -6,9 +6,10 @@ using namespace std;
 
 int main() {
     // input
-    int n = 10;
-    int arr[n]= {9,1,8,2,7,3,6,4,5,0};
+    int arr[]= {9,1,8,2,7,3,6,4,5,0};
 
+    int n = sizeof(arr) / sizeof(arr[0]);
+    
     // copy new array
     int arr2[n];
     copy(arr, arr + n, arr2);
