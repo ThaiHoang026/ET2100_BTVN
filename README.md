@@ -1,15 +1,4 @@
-# ET2100
-
-Repo này chứa các bài tập học phần ET2100 - Cấu trúc dữ liệu và giải thuật, viết chủ yếu bằng C++, bao gồm:
-- Tuần 4:
-    - Debug
-- Tuần 5:
-    - Selection Sort
-    - Bubble Sort
-    - Insertion Sort
-- Tuần 6:
-    - Quick Sort
-    - Merge Sort
+# ET2100 - Hoang Van Thai
 
 ## 1. Requirements
 - Trình biên dịch C++ (GCC, Clang hoặc MSVC)
